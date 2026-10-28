@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/zzen-automation/Zzen/main/docs/logo.png" alt="Zzen Automation logo" width="72" height="72">
+
 # Zzen Automation
 
 **Native C++ automation tools for Windows.**
